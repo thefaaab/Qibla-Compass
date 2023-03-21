@@ -78,7 +78,7 @@ class _MyAppState extends State<MyApp> {
 
         return QiblaCircle(
           child: Transform.rotate(
-            angle: (direction * (math.pi / 288) * -1),
+            angle: (direction * (math.pi / 360) * -1),
             child: Image.asset(
               'assets/qibla.png',
               fit: BoxFit.fill,
