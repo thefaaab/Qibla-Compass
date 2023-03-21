@@ -15,4 +15,4 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-![compass](https://user-images.githubusercontent.com/126548231/226540922-05761f7c-ef32-4c5b-80ad-bdb27ddb3e79.png)
+<img src = "https://user-images.githubusercontent.com/126548231/226540922-05761f7c-ef32-4c5b-80ad-bdb27ddb3e79.png" width = "300">
